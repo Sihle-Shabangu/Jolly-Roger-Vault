@@ -1,0 +1,20 @@
+{
+    "name": "Jolly Roger Pirates",
+    "description": "A classic skull-and-crossbones symbol, known as a universal emblem of piracy.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/4.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "All Seas"
+      }
+    ]
+  }
+  

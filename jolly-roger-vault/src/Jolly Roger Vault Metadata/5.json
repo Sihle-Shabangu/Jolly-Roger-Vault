@@ -1,0 +1,20 @@
+{
+    "name": "Whitebeard Pirates",
+    "description": "The mighty symbol of Whitebeard's crew, representing one of the most powerful forces on the seas.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/5.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "White and Black"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "New World"
+      }
+    ]
+  }
+  

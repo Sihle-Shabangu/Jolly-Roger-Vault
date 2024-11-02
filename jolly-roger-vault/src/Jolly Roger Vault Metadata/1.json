@@ -1,0 +1,20 @@
+{
+    "name": "Straw Hat Pirates",
+    "description": "The iconic emblem representing Luffy's fearless crew on their quest for the One Piece.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Black and White"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "East Blue"
+      }
+    ]
+  }
+  

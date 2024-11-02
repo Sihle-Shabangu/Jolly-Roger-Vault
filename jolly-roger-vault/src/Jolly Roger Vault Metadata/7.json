@@ -1,0 +1,20 @@
+{
+    "name": "Buggy Pirates",
+    "description": "The eccentric symbol of Buggy's colorful crew, known for its chaotic and unpredictable nature.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/7.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Blue and Red"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "East Blue"
+      }
+    ]
+  }
+  

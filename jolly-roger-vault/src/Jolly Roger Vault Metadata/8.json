@@ -1,0 +1,20 @@
+{
+    "name": "Blackbeard Pirates",
+    "description": "The ominous emblem of Blackbeard's crew, feared for their ambition and darkness.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/8.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Mythical"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "New World"
+      }
+    ]
+  }
+  

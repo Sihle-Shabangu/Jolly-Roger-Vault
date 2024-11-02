@@ -1,0 +1,20 @@
+{
+    "name": "Red Hair Pirates",
+    "description": "Shanks' renowned crew symbol, representing freedom and balance on the high seas.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/6.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "Grand Line"
+      }
+    ]
+  }
+  

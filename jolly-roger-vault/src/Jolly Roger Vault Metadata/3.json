@@ -1,0 +1,20 @@
+{
+    "name": "Donquixote Pirates",
+    "description": "The feared symbol of Doflamingo's crew, known for their ruthlessness and influence in Dressrosa.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/3.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "Dressrosa"
+      }
+    ]
+  }
+  

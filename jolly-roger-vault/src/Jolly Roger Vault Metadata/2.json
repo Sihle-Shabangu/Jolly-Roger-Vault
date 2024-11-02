@@ -1,0 +1,20 @@
+{
+    "name": "Fallen Moon Pirates",
+    "description": "A mystical crew associated with the moon’s enigmatic powers and dark mysteries.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/2.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "New World"
+      }
+    ]
+  }
+  

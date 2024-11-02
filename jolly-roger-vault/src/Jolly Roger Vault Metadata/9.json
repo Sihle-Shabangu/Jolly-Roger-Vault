@@ -1,0 +1,20 @@
+{
+    "name": "Sun Pirates",
+    "description": "The symbol of Fisher Tiger's crew, representing the quest for freedom and equality for all races.",
+    "image": "ipfs://QmbCwZo2sQqas7gJYgpaYZ1qoPwf3BHU1eYGZQowAVPGWE/9.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Orange and Yellow"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Affiliation",
+        "value": "Fish-Man Island"
+      }
+    ]
+  }
+  
